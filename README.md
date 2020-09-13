@@ -1,2 +1,2 @@
 This repository is belong to Nghia.
-Under the collaboration of: 
+Under the collaboration of: Long
